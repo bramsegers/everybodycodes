@@ -1,0 +1,16 @@
+Ulphor,Hazaxar,Haznarith,Kazphor,Kaznarith,Kazaxar,Ulnarith,Hazphor,Ulaxar
+
+z > p,a,n
+a > r,x,b
+o > r
+K > a
+p > h
+n > a
+i > t
+r > i
+x > a
+l > n,b
+h > o
+U > l
+t > h
+H > a

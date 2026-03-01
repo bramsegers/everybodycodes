@@ -1,0 +1,27 @@
+Pyrnar,Naldjorath,Zyrjorath,Mornvel,Mornthyn,Balvel,Zyrvynar,Drelgaz,Shaemkynar,Shaemvel,Naldgaz,Mornnar,Zyrvel,Mornjorath,Urgonn,Shaemgalor,Baljorath,Zyrgalor,Luthvel,Shaemgonn,Pylarvel,Urgaz,Balthyn,Pylarjorath,Pyrthyn,Pylarvynar,Urjorath,Luthnar,Pylargaz,Pyrkynar,Drelnar,Pyrvynar,Dreljorath,Pyrgalor,Naldgonn,Pylarnar,Dreljorath,Pylargalor,Naldvel,Naldkynar,Pylarjorath,Pyrjorath,Luthkynar,Luthgaz,Shaemjorath,Drelkynar,Luththyn,Mornkynar,Zyrgaz,Luthvynar,Naldnar,Urjorath,Pyrgonn,Mornjorath,Naldgalor,Zyrgonn,Drelgonn,Pyrjorath,Shaemthyn,Zyrthyn,Zyrkynar,Drelgalor,Shaemvynar,Balgonn,Balkynar,Luthgonn,Pylarkynar,Luthjorath,Naldthyn,Drelvynar,Urnar,Baljorath,Morngalor,Urkynar,Zyrjorath,Drelthyn,Shaemgaz,Morngonn,Pyrgaz,Balgaz,Naldjorath,Mornvynar,Luthjorath,Morngaz,Balvynar,Balgalor,Urvel,Balnar,Drelvel,Pylarthyn,Shaemnar,Shaemjorath,Urthyn,Urgalor,Zyrnar,Pylargonn,Pyrvel,Luthgalor,Urvynar,Naldvynar
+
+o > r,n,v
+k > y
+D > r
+S > h
+e > l,m
+a > r,z,t,l,e,v
+n > a,n,g,j,v,k,t
+g > a,o
+t > h
+P > y
+B > a
+d > g,n,j,v,k,t
+N > a
+h > y,v,g,n,j,k,t
+j > o
+L > u
+U > r
+v > y,e
+r > v,a,g,n,j,k,t
+M > o
+l > g,n,j,v,k,o,t,a,d
+y > r,n,v
+m > g,n,j,v,k,t
+u > v
+Z > y
